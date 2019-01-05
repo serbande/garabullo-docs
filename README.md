@@ -1,2 +1,2 @@
 # garabullo-docs
-Documentación del robot Garabullo
+Este repositorio contiene la documentación del robot Garabullo, que es publicada como web en .....
