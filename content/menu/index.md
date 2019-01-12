@@ -9,4 +9,6 @@ headless: true
   - [Montaje]({{< ref "/docs/garabullo-v1/montaje.md" >}})
   - [Firmware]({{< ref "/docs/garabullo-v1/firmware.md" >}})  
 - **Garabullo v2** <label style="color:red">Beta!</label>
-  - [Descripción]({{< ref "/docs/garabullo-v2/descripcion.md" >}})
+  - [Descripción]({{< ref "/docs/garabullo-v2/descripcion.md" >}})  
+- **Garabullo F1** <label style="color:red">Draft!</label>
+  - [Descripción]({{< ref "/docs/garabullo-f1/descripcion.md" >}})
