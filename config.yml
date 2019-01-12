@@ -1,6 +1,7 @@
 # hugo server --themesDir ...
 
 baseURL: https://serbande.github.io/garabullo-docs
+canonifyURLs: true
 title: Garabullo Robot
 publishDir: docs
 theme: book
