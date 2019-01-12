@@ -1,6 +1,7 @@
 # hugo server --themesDir ...
 
 baseURL: https://serbande.github.io/garabullo-docs
+# baseURL: https://serbande.github.io/
 relativeURLS : true
 title: Garabullo Robot
 publishDir: docs
