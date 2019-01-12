@@ -9,9 +9,9 @@ description: "Descripción Garabullo F1"
 # Garabullo F1
 
 ## Descripción
-Esta versión de garabullo es un proyecto que nació en el 2017 y que de momento no ha podido avanzar,
-pero está en el punto de mira...
+Garabullo Fórmula 1 es una idea que nace en los carnavales de 2018 pero que de momento no ha podido avanzar,
+podríamos decir que está en "standby".
 
-Si quieres conocer un poco de que va mira en twitter:
+Si quieres conocer un poco de qué va mira en Twitter:
 
 {{< tweet 963389638953054208 >}}

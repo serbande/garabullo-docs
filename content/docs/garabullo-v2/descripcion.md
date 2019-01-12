@@ -1,60 +1,53 @@
-# Caput vino delphine in tamen vias
+---
+title: "Descripcion"
+date: 2017-10-17T15:26:15Z
+draft: false
+weight: 10
+description: "Descripción Garabullo v1"
+---
 
-## Cognita laeva illo fracta
+# Garabullo v1
 
-Lorem markdownum pavent auras, surgit nunc cingentibus libet **Laomedonque que**
-est. Pastor [An](http://est.org/ire.aspx) arbor filia foedat, ne [fugit
-aliter](http://www.indiciumturbam.org/moramquid.php), per. Helicona illas et
-callida neptem est *Oresitrophos* caput, dentibus est venit. Tenet reddite
-[famuli](http://www.antro-et.net/) praesentem fortibus, quaeque vis foret si
-frondes *gelidos* gravidae circumtulit [inpulit armenta
-nativum](http://incurvasustulit.io/illi-virtute.html).
+## Descripción
 
-1. Te at cruciabere vides rubentis manebo
-2. Maturuit in praetemptat ruborem ignara postquam habitasse
-3. Subitarum supplevit quoque fontesque venabula spretis modo
-4. Montis tot est mali quasque gravis
-5. Quinquennem domus arsit ipse
-6. Pellem turis pugnabant locavit
+El **Garabullo v1** es la primera generación de la familia, esta versión fue desarrollada
+durante el año **2018**. En esta versión el corazón de Garabullo esta formado por un **Arduino Nano**,
+cuenta con un panel de 9 botones retroiluminados, se mantiene vivo y puede correr libre gracias 
+a una bateria recargable con conexión micro-usb. Se propulsa gracias a sus dos motores 28byj-48.
 
-## Natus quaerere
+Además cuenta con una pantalla de 1,44' que le permite comunicarse al igual que un buzzer con el que
+emite sonidos.
 
-Pectora et sine mulcere, coniuge dum tincta incurvae. Quis iam; est dextra
-Peneosque, metuis a verba, primo. Illa sed colloque suis: magno: gramen, aera
-excutiunt concipit.
+## ¿Qué puedo aprender con esta versión?
 
-> Phrygiae petendo suisque extimuit, super, pars quod audet! Turba negarem.
-> Fuerat attonitus; et dextra retinet sidera ulnas undas instimulat vacuae
-> generis? *Agnus* dabat et ignotis dextera, sic tibi pacis **feriente at mora**
-> euhoeque *comites hostem* vestras Phineus. Vultuque sanguine dominoque [metuit
-> risi](http://iuvat.org/eundem.php) fama vergit summaque meus clarissimus
-> artesque tinguebat successor nominis cervice caelicolae.
+### Impresión 3D
 
-## Limitibus misere sit
+Para construir este arduino tendrás que descargarte e imprimir los modelos 3d de las diferentes piezas, eso
+te permetira ver como han sido diseñados y coger ideas para tus propios proyectos.
 
-Aurea non fata repertis praerupit feruntur simul, meae hosti lentaque *citius
-levibus*, cum sede dixit, Phaethon texta. *Albentibus summos* multifidasque
-iungitur loquendi an pectore, mihi ursaque omnia adfata, aeno parvumque in animi
-perlucentes. Epytus agis ait vixque clamat ornum adversam spondet, quid sceptra
-ipsum **est**. Reseret nec; saeva suo passu debentia linguam terga et aures et
-cervix [de](http://www.amnem.io/pervenit.aspx) ubera. Coercet gelidumque manus,
-doluit volvitur induta?
+### Electrónica
 
-## Enim sua
+Esta versión de Garabullo se alimenta de una batería de litio 18650. Durante el montaje del circuito de alimentación
+aprenderás como se construye un circuito con una batería de este tipo, como se añade un módulo cargador de baterías
+litio y como subir un voltaje de 3,7v a 5v.
 
-Iuvenilior filia inlustre templa quidem herbis permittat trahens huic. In
-cruribus proceres sole crescitque *fata*, quos quos; merui maris se non tamen
-in, mea.
+Los circuitos de Garabullo se proporcionan como una placa PCB, contarás tanto con la placa como con el diseño de la
+misma, esto te permitirá conocer como se ha construido el circuito y por lo tanto aprender como se hacen circuitos para
+gestionar leds, botones, pantallas... verás que, por ejemplo, además de los componentes principales como pueden ser pulsadores
+o leds también es necesario añadir otros componentes como resistencias, condensadores ... 
 
-## Germana aves pignus tecta
+Con el uso de la placa pcb también tendrás que desarrollar tus habilidades como "soldador".
 
-Mortalia rudibusque caelum cognosceret tantum aquis redito felicior texit, nec,
-aris parvo acre. Me parum contulerant multi tenentem, gratissime suis; vultum tu
-occupat deficeret corpora, sonum. E Actaea inplevit Phinea concepit nomenque
-potest sanguine captam nulla et, in duxisses campis non; mercede. Dicere cur
-Leucothoen obitum?
+### Programación
 
-Postibus mittam est *nubibus principium pluma*, exsecratur facta et. Iunge
-Mnemonidas pallamque pars; vere restitit alis flumina quae **quoque**, est
-ignara infestus Pyrrha. Di ducis terris maculatum At sede praemia manes
-nullaque!
+Para enseñar a Garabullo tendrás que instalarte el entorno de programación Arduino IDE, bajarte el firmware 
+y cargarlo en el Arduino Nano. Si te paras a analizar el código podrás aprender a:
+
+- Controlar motores
+- Encender LED WS2812b con diferentes colores
+- Detectar cuando un pulsador es presionado
+- Reproducir sonidos con un buzzer
+- Crear juegos sencillos
+- Utilizar pantallas con Arduino
+
+### 
