@@ -2,6 +2,7 @@
 
 baseURL: https://example.com
 title: Garabullo Robot
+publishDir: docs
 theme: book
 disableKinds: ["taxonomy", "taxonomyTerm"]
 # themesDir: ../..
