@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on Garabullo Robot</title>
-    <link>https://example.com/docs/</link>
+    <link>https://serbande.github.io/garabullo-docs/docs/</link>
     <description>Recent content in Docs on Garabullo Robot</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 17 Oct 2017 15:26:15 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/docs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://serbande.github.io/garabullo-docs/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Descripcion</title>
-      <link>https://example.com/docs/garabullo-v1/descripcion/</link>
+      <link>https://serbande.github.io/garabullo-docs/docs/garabullo-v1/descripcion/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>https://example.com/docs/garabullo-v1/descripcion/</guid>
+      <guid>https://serbande.github.io/garabullo-docs/docs/garabullo-v1/descripcion/</guid>
       <description>Garabullo v1 Descripción El Garabullo v1 es la primera generación de la familia, esta versión fue desarrollada durante el año 2018. En esta versión el corazón de Garabullo esta formado por un Arduino Nano, cuenta con un panel de 9 botones retroiluminados, se mantiene vivo y puede correr libre gracias a una bateria recargable con conexión micro-usb. Se propulsa gracias a sus dos motores 28byj-48.
 Además cuenta con una pantalla de 1,44&amp;rsquo; que le permite comunicarse al igual que un buzzer con el que emite sonidos.</description>
     </item>
     
     <item>
       <title>Materiales</title>
-      <link>https://example.com/docs/garabullo-v1/materiales/</link>
+      <link>https://serbande.github.io/garabullo-docs/docs/garabullo-v1/materiales/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>https://example.com/docs/garabullo-v1/materiales/</guid>
+      <guid>https://serbande.github.io/garabullo-docs/docs/garabullo-v1/materiales/</guid>
       <description>Garabullo v1 Herramientas  Multímetro , voltímetro o polímetro Cargador de móvil Destornilladores plano/estrella punta fina Utensilio para pelar/cortar cables Soldadora Cinta aislante  Modelos 3D para imprimir Chasis Tapas Ruedas Otros Cables    Ud. Descripción      20cm Cable negro    15cm Cable rojo     Componentes    Ud. Descripción Link     1 Placa PCB pcbway   2 Bola loca 10mm de diámetro aliexpress   19 Tornillos din7981 de 2.</description>
     </item>
     
     <item>
       <title>Montaje</title>
-      <link>https://example.com/docs/garabullo-v1/montaje/</link>
+      <link>https://serbande.github.io/garabullo-docs/docs/garabullo-v1/montaje/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>https://example.com/docs/garabullo-v1/montaje/</guid>
+      <guid>https://serbande.github.io/garabullo-docs/docs/garabullo-v1/montaje/</guid>
       <description> Garabullo v1 Instrucciones de montaje </description>
     </item>
     
     <item>
       <title>Firmware</title>
-      <link>https://example.com/docs/garabullo-v1/firmware/</link>
+      <link>https://serbande.github.io/garabullo-docs/docs/garabullo-v1/firmware/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>https://example.com/docs/garabullo-v1/firmware/</guid>
+      <guid>https://serbande.github.io/garabullo-docs/docs/garabullo-v1/firmware/</guid>
       <description> Garabullo v1 Firmware </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/docs/garabullo-v2/descripcion/</link>
+      <link>https://serbande.github.io/garabullo-docs/docs/garabullo-v2/descripcion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/garabullo-v2/descripcion/</guid>
+      <guid>https://serbande.github.io/garabullo-docs/docs/garabullo-v2/descripcion/</guid>
       <description>Caput vino delphine in tamen vias Cognita laeva illo fracta Lorem markdownum pavent auras, surgit nunc cingentibus libet Laomedonque que est. Pastor An arbor filia foedat, ne fugit aliter, per. Helicona illas et callida neptem est Oresitrophos caput, dentibus est venit. Tenet reddite famuli praesentem fortibus, quaeque vis foret si frondes gelidos gravidae circumtulit inpulit armenta nativum.
  Te at cruciabere vides rubentis manebo Maturuit in praetemptat ruborem ignara postquam habitasse Subitarum supplevit quoque fontesque venabula spretis modo Montis tot est mali quasque gravis Quinquennem domus arsit ipse Pellem turis pugnabant locavit  Natus quaerere Pectora et sine mulcere, coniuge dum tincta incurvae.</description>
     </item>

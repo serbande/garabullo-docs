@@ -1,6 +1,6 @@
 # hugo server --themesDir ...
 
-baseURL: https://example.com
+baseURL: https://serbande.github.io/garabullo-docs
 title: Garabullo Robot
 publishDir: docs
 theme: book
